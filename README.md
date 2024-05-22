@@ -7,9 +7,8 @@ In this analysis we use Python Pandas & Python Matplotlib to analyze and answer 
 ## Methodology:
 1. Data Cleaning and Processing: Utilized Pandas for comprehensive data cleaning and preprocessing like droping NaN vlaues, changing tye datatype of columns
 2. Data Exploration: Employed Matplotlib for creating insightful graphs and plots. In this section we also explore 5 high level business questions related to our data:
-
-* What was the best month for sales? How much was earned that month?
-* Which city sold the most product?
-* What time should we display advertisemens to maximize the likelihood of customer’s buying product?
-* Which products are most often sold together?
-* Which products sold the most? Why do you think they sold the most?
+ -* What was the best month for sales? How much was earned that month?
+ -* Which city sold the most product?
+ -* What time should we display advertisemens to maximize the likelihood of customer’s buying product?
+ -* What products are most often sold together?
+ -* What product/products sold the most? Why do you think it/they sold the most?
